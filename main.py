@@ -131,3 +131,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("Бот остановлен.")
         logger.info("Бот остановлен.")
+
+# Может еще чего тут удалить?
